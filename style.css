@@ -1,0 +1,65 @@
+.ti{
+ text-align: center;
+ color: darkorange;
+}
+body#bo{
+ background-color: lightblue;
+ color: darkgoldenrod;
+ font-weight: bold;
+}
+
+.Alicante{
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+   }
+   .ali{
+    position: relative;
+    left: 7cm;
+   }
+   .al{
+    position: relative;
+    left: 13cm;
+   }
+
+   .Valencia{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+   }
+   .va{
+    position: relative;
+    left: -1cm;
+   }
+   .val{
+    position: relative;
+    left: -1cm;
+   }
+
+   .Castellon{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+   }
+   .ca{
+    position: relative;
+    left: 14cm;
+   }
+   .cas{
+    position: relative;
+    left: 14cm;
+   }
+
+   .nombre{
+    color: red;
+    font-weight: bold;
+   }
+   .sw{
+    text-align: center;
+    background-color: white;
+   }
+
+   .web{
+    color: blue;
+    font-weight: bold;
+   }
